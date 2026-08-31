@@ -14,3 +14,4 @@ export default (req: { params: { num: string } }, res: { send: (result: string) 
 
   res.send(result);
 };
+//c
